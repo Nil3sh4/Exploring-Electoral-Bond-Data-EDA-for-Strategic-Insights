@@ -1,0 +1,20 @@
+1. Conducted comprehensive exploratory data analysis (EDA) on electoral bonds dataset, employing statistical techniques and visualization tools to gain actionable insights into the purchasing patterns and trends.
+
+2. Utilized Python libraries such as pandas, matplotlib, and seaborn to perform data preprocessing, visualization, and statistical analysis, facilitating a deeper understanding of the dataset's characteristics.
+
+3. Visualized the distribution of electoral bond purchases through histograms, box plots, and density plots, providing stakeholders with clear insights into the distributional properties of the data.
+
+4. Identified outliers and anomalies in the dataset using robust statistical methods and visualization techniques, enabling the team to investigate potential data quality issues and outliers that might influence predictive modeling outcomes.
+
+5. Explored relationships between various features such as purchaser names, dates of purchase, and denominations using correlation analysis and visualization, uncovering meaningful patterns and dependencies within the data.
+
+6. Presented findings and actionable insights derived from EDA to cross-functional teams and stakeholders, informing strategic decision-making processes and guiding subsequent phases of the predictive modeling project.
+
+
+project name idea
+"Electoral Bonds Insights: Exploratory Data Analysis"
+"Analyzing Electoral Bonds: A Data Exploration Project"
+"EDA for Electoral Bonds: Unveiling Patterns and Trends"
+"Understanding Electoral Bond Purchases: A Data-driven Exploration"
+"Insights into Electoral Bonds: Exploratory Analysis Project"
+"Exploring Electoral Bond Data: EDA for Strategic Insights"
